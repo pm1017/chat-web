@@ -11,6 +11,7 @@ name: release-please
 
 jobs:
   release-please:
+    if: github.actor != 'github-actions[bot]'  # 避免 bot 提交触发自身
     runs-on: ubuntu-latest
     steps:
       - uses: googleapis/release-please-action@v4
