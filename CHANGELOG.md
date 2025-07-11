@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/pm1017/chat-web/compare/v1.0.0...v1.0.1) (2025-07-11)
+
+
+### Bug Fixes
+
+* ensure skip-labeling is set to true in release-please action ([4f44354](https://github.com/pm1017/chat-web/commit/4f4435451ba73d2278d9c00baee2e936e0091725))
+* update project name in README from 'chat' to 'chat-web' ([2fc3edc](https://github.com/pm1017/chat-web/commit/2fc3edc7a18a9249a4edff3efe5bf93dd10208bd))
+* update release-please action token to use GITHUB_TOKEN ([3478021](https://github.com/pm1017/chat-web/commit/34780216a888dc9ab4376cd770f2ba5625ef4cd4))
+
 ## 1.0.0 (2025-07-11)
 
 
